@@ -1,0 +1,24 @@
+OOPS ....probable syllabus
+
+1) what is OOP?
+2) Why OOP?
+3) Object 
+4) Class 
+5) 4 Pillars 
+6) Abstraction 
+7) Encapsulation 
+8) Polymorphism 
+9) Inheritance 
+10) Coupling 
+11) Cohesion 
+12) Association 
+13) Composition 
+14) Aggregation 
+15) static binding 
+16) dynamic binding
+17) class level polymorphism 
+18) string immutability 
+19) String pool, buffer
+20) try catch and finally block 
+21) final
+
