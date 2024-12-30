@@ -22,3 +22,9 @@ OOPS ....probable syllabus
 20) try catch and finally block 
 21) final
 
+
+1) Design Pattern?
+2) Why desing pattern?
+3) 
+
+
