@@ -25,6 +25,15 @@ OOPS ....probable syllabus
 
 1) Design Pattern?
 2) Why desing pattern?
-3) 
+3) singleton
+4) factory
+5) builder
+6) prototype
+7) strategy
+8) template
+9) command 
+10) chain of responsibility
+11) observer 
+12) decorator 
 
 
